@@ -1,0 +1,14 @@
+PODS:
+  - DTXcodeUtils (0.1.0)
+
+DEPENDENCIES:
+  - DTXcodeUtils (from `../DTXcodeUtils`)
+
+EXTERNAL SOURCES:
+  DTXcodeUtils:
+    :path: ../DTXcodeUtils
+
+SPEC CHECKSUMS:
+  DTXcodeUtils: 5d4ea9e954e4c56453a011c158222e92f8bbb365
+
+COCOAPODS: 0.33.1
